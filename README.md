@@ -29,8 +29,8 @@ DOMUS es una aplicación de bienes raíces que facilita el proceso de poner en c
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/TU_USUARIO_GITHUB/DOMUS.git
-cd DOMUS
+git clone https://github.com/azuranob/domus-frontend.git
+cd domus-frontend
 ```
 ## Enlace Producción
 https://verde-frontend-production.up.railway.app
